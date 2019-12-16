@@ -1,0 +1,13 @@
+{
+  "name": "cultivate_back_end",
+  "version": "1.0.0",
+  "description": "cultivate api for table",
+  "author": "Joey Zink",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
